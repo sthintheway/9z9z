@@ -9,4 +9,10 @@ coverY: -274.6343612334802
 
 亦欢迎大家共同编辑。
 
-在线阅读地址：https://9z9z.gitbook.io/kuang-kuang-kuang-kuang-kuang/
+## 在线阅读
+
+[《框框框框框》](https://9z9z.gitbook.io/kuang-kuang-kuang-kuang-kuang/)
+
+## 本项目源代码
+
+{% embed url="https://github.com/sthintheway/9z9z" %}
